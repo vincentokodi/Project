@@ -7,7 +7,7 @@ Hi there, I'm Vincent Okodi🤓, I am a highly skilled Data Analyst with extensi
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a fleet Analyst I provide consulting and training services for drivers and manageria staffs
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
