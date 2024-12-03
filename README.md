@@ -48,11 +48,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 ## MY CLASSES
 ![image](assets/class.jpg)
-*Call my admin for details about the classes: 08034730987.*
+*Call my admin for details about the classes: 08032959078.*
 
 - Settings | One-on-One, Group, Communities.								       		
 - Platforms	| Physical or Virtual, Weekday or Weekend. 			        		
-- Courses | Advanced Excel, Statistics, Power BI, SQL, Tableau, Python.
+- Courses | Advanced Excel, power query, Power BI,
 
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
