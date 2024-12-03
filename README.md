@@ -13,7 +13,7 @@ Hi there, I'm Vincent Okodi🤓, I am a highly skilled Data Analyst with extensi
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+I offer comprehensive training programs in data analysis, visualization in fleet management and data-driven decision-making. 
 
 
 <!--Section 2: List 3-4 key projects-->
