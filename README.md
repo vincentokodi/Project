@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi There, I'm Vincent Okodi🤓, I am a highly skilled Data Analyst with extensive experience in fleet management, specializing in leveraging data to optimize operational efficiency, reduce costs, and enhance vehicle performance. My expertise spans data collection, cleaning, and visualization, with a focus on analyzing fleet performance metrics such as fuel consumption, maintenance schedules, route optimization, and driver behavior.
+Hi there, I'm Vincent Okodi🤓, I am a highly skilled Data Analyst with extensive experience in fleet management, specializing in leveraging data to optimize operational efficiency, reduce costs, and enhance vehicle performance. My expertise spans data collection, cleaning, and visualization, with a focus on analyzing fleet performance metrics such as fuel consumption, maintenance schedules, route optimization, and driver behavior.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
